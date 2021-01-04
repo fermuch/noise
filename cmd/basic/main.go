@@ -1,11 +1,12 @@
 package main
 
 import (
-	"github.com/perlin-network/noise"
-	"github.com/perlin-network/noise/kademlia"
-	"go.uber.org/zap"
 	"os"
 	"os/signal"
+
+	"github.com/fermuch/noise"
+	"github.com/fermuch/noise/kademlia"
+	"go.uber.org/zap"
 )
 
 func main() {
