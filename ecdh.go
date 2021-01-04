@@ -4,7 +4,7 @@ import (
 	"crypto/ed25519"
 	"crypto/sha512"
 	"fmt"
-	"github.com/oasislabs/ed25519/extra/x25519"
+	"github.com/oasisprotocol/ed25519/extra/x25519"
 	"golang.org/x/crypto/curve25519"
 	"math/big"
 )

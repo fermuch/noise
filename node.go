@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/oasislabs/ed25519"
+	"github.com/oasisprotocol/ed25519"
 	"go.uber.org/atomic"
 	"go.uber.org/zap"
 	"net"

@@ -44,7 +44,7 @@
 
 - Logging is handled by [uber-go/zap](https://github.com/uber-go/zap).
 - Unit tests are handled by [stretchr/testify](https://github.com/stretchr/testify).
-- X25519 handshaking and Curve25519 encryption/decryption and Ed25519 signatures are handled by [oasislabs/ed25519](https://github.com/oasislabs/ed25519).
+- X25519 handshaking and Curve25519 encryption/decryption and Ed25519 signatures are handled by [oasislabs/ed25519](https://github.com/oasisprotocol/ed25519).
 
 ## Setup
 
